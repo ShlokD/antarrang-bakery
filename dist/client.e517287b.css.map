@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,4EAA4E,CAE5E,EACI,4BACJ","file":"client.e517287b.css","sourceRoot":"..\\client","sourcesContent":["@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');\r\n\r\n* {\r\n    font-family: \"Pacifico\", cursive;\r\n}\r\n"]}
